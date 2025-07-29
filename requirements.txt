@@ -2,3 +2,7 @@ rapidfuzz
 transformers
 torch
 tf-keras
+fastapi
+groq
+python-dotenv
+uvicorn
