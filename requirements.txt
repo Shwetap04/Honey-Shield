@@ -1,0 +1,4 @@
+rapidfuzz
+transformers
+torch
+tf-keras
