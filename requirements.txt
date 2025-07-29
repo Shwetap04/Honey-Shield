@@ -6,3 +6,4 @@ fastapi
 groq
 python-dotenv
 uvicorn
+torch-geometric
