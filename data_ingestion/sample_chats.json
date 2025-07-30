@@ -1,0 +1,135 @@
+[
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-01T08:10:00Z",
+      "message": "Hey, I saw your profile and thought we might really connect.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-01T08:15:00Z",
+      "message": "Hi! Thanks, I’m open to chat. What about you?",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-02T09:05:00Z",
+      "message": "Honestly, you seem different from others—really beautiful and smart. People don’t often get me like you do.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-02T09:30:00Z",
+      "message": "You're too kind! That means a lot. What do you do?",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-03T22:40:00Z",
+      "message": "I’m in finance but I mostly rely on some private investments. I like keeping things confidential — don’t tell anyone you and me are chatting.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-03T22:45:00Z",
+      "message": "Of course, your secret is safe with me.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-05T10:15:00Z",
+      "message": "I need a favor—a transfer while I’m abroad. Can you hold some money for me? I’ll pay back double. Trust me, no one else knows this.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-05T11:00:00Z",
+      "message": "That sounds risky. Can you explain more?",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-05T11:30:00Z",
+      "message": "It’s urgent and confidential. A business emergency. I can’t do it through usual banks, so I need your help. Please, don’t mention to anyone.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-05T12:00:00Z",
+      "message": "Okay, I’ll think about it carefully. What amount are you talking about?",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-06T13:20:00Z",
+      "message": "Five thousand dollars. Should I send you details? Remember, this is just between us.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-06T13:45:00Z",
+      "message": "Alright, send me the details once you’re ready.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-07T09:00:00Z",
+      "message": "Here’s my bank info: Acc No: 123456789, Bank: Global Trust. Please be quick.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-07T09:30:00Z",
+      "message": "I transferred the money. Be safe!",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-07T10:00:00Z",
+      "message": "Thank you, baby. Can’t wait to see you in person. You’re my angel.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-07T10:15:00Z",
+      "message": "Looking forward too! Stay safe.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-08T21:55:00Z",
+      "message": "By the way, don’t tell anyone we’re planning this, it must stay a secret.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "target_user",
+      "receiver": "attacker_01",
+      "timestamp": "2025-08-08T22:00:00Z",
+      "message": "Don’t worry, your secret is safe.",
+      "platform": "WhatsApp"
+    },
+    {
+      "sender": "attacker_01",
+      "receiver": "target_user",
+      "timestamp": "2025-08-09T08:10:00Z",
+      "message": "We’re almost there. Act fast when I call you. It’s urgent!",
+      "platform": "WhatsApp"
+    }
+  ]
