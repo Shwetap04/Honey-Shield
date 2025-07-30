@@ -2,9 +2,11 @@ rapidfuzz
 transformers
 torch
 tf-keras
-scikit-learn
 fastapi
 groq
 python-dotenv
 uvicorn
 torch-geometric
+cryptography
+pymongo
+scikit-learn
